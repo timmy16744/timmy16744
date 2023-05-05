@@ -1,0 +1,38 @@
+[
+    {
+        "clientName": "John Doe",
+        "loanAmount": 350000,
+        "loanStage": "Enquiry",
+        "bank": "ANZ",
+        "brokerCode": "4140-518 BC Com1875.892",
+        "loanPurpose": "Home Purchase",
+        "settlementDate": "2023-06-15",
+        "loanID": "ANZ123456",
+        "notes": "Initial call with client completed. Awaiting documents.",
+        "actionDate": "2023-05-10"
+    },
+    {
+        "clientName": "Jane Smith",
+        "loanAmount": 450000,
+        "loanStage": "Conditional Approval",
+        "bank": "Westpac",
+        "brokerCode": "i5024775",
+        "loanPurpose": "Refinance",
+        "settlementDate": "2023-07-01",
+        "loanID": "WPC987654",
+        "notes": "Received conditional approval. Waiting for valuation.",
+        "actionDate": "2023-05-20"
+    },
+    {
+        "clientName": "Alice Johnson",
+        "loanAmount": 250000,
+        "loanStage": "Application Submitted",
+        "bank": "NAB",
+        "brokerCode": "SPID45320",
+        "loanPurpose": "Investment",
+        "settlementDate": "2023-06-30",
+        "loanID": "NAB246810",
+        "notes": "Submitted application. Awaiting bank's response.",
+        "actionDate": "2023-05-15"
+    }
+]
